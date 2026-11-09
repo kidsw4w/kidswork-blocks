@@ -1,0 +1,17 @@
+{
+    "name": "kidswork-blocks",
+    "version": "0.1.0",
+    "description": "めいろ教材用の MakeCode 拡張機能",
+    "dependencies": {
+        "core": "*",
+        "builder": "*"
+    },
+    "files": [
+        "README.md",
+        "meiro.ts"
+    ],
+    "supportedTargets": [
+        "minecraft"
+    ],
+    "public": true
+}
